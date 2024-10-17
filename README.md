@@ -1,1 +1,1 @@
-# RISC-V Microcontroller project based on the PULPissimo core
+# Nothing to see yet
